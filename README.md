@@ -1,5 +1,5 @@
 # R15
-Argo trajectory measurement code identifiers 
+Argo trajectory measurement code identifiers  
 Measurement code IDs used in Argo trajectory NetCDF files.
 
 This vocabulary is available from:
